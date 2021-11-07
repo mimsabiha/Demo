@@ -1,0 +1,14 @@
+{
+	"doc":[
+		{
+			"name":"Liza",
+			"designation":"professor",
+			"medical":"Popular"
+		},
+		{
+			"name":"Lia",
+			"designation": "MedicineSpecialist",
+			"medical":"Popular"
+		}
+	]
+}
